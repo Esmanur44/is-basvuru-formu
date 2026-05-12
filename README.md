@@ -1,10 +1,10 @@
-# 📄 İş Başvuru Formu (Flutter)
+#  İş Başvuru Formu (Flutter)
 
 Bu proje, Flutter kullanılarak geliştirilmiş modern bir **iş başvuru formu uygulamasıdır**. Kullanıcılar kişisel bilgilerini girip eğitim, iş türü ve deneyim seçerek başvuru yapabilir.
 
 ---
 
-## 🚀 Özellikler
+##  Özellikler
 
 - Ad Soyad, Telefon, Adres ve Yaş girişi
 - Eğitim seviyesi seçimi (Dropdown)
@@ -18,7 +18,7 @@ Bu proje, Flutter kullanılarak geliştirilmiş modern bir **iş başvuru formu 
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+##  Kullanılan Teknolojiler
 
 - Flutter
 - Dart
@@ -26,7 +26,7 @@ Bu proje, Flutter kullanılarak geliştirilmiş modern bir **iş başvuru formu 
 
 ---
 
-## 📸 Ekran Görüntüsü
+##  Ekran Görüntüsü
 
 <p align="center">
   <img src="images/ekran.png" width="350"/>
@@ -34,4 +34,4 @@ Bu proje, Flutter kullanılarak geliştirilmiş modern bir **iş başvuru formu 
 
 ---
 
-## 📂 Proje Yapısı
+##  Proje Yapısı
