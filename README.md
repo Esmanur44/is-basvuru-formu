@@ -33,5 +33,3 @@ Bu proje, Flutter kullanılarak geliştirilmiş modern bir **iş başvuru formu 
 </p>
 
 ---
-
-##  Proje Yapısı
